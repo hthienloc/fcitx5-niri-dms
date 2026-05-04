@@ -4,6 +4,8 @@ A dynamic Fcitx5 theme that automatically synchronizes with **Dank Material Shel
 
 Inherits the sleek border style from [Ori-fcitx5](https://github.com/Reverier-Xu/Ori-fcitx5) but adds dynamic capabilities.
 
+![alt text](image.png)
+
 ## Features
 
 - **Color Sync:** Automatically pulls Background, Foreground, and Primary (Accent) colors from Matugen (`qt6ct/matugen.conf`).
