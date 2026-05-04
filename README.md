@@ -31,7 +31,8 @@ Inherits the sleek border style from [Ori-fcitx5](https://github.com/Reverier-Xu
 
 3. Follow the prompt to install the theme to `~/.local/share/fcitx5/themes/niri-dms`.
 
-4. Select **DMS Niri Theme** in your Fcitx5 configuration.
+4. Open **Fcitx5 Configuration** and navigate to:
+   `Addons` > `Classic User Interface` (click Configure) > `Theme` (or `Dark Theme`) > Select **DMS Niri**.
 
 ## Credits
 

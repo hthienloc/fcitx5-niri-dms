@@ -87,7 +87,7 @@ def update_theme_conf(primary_color, fg_color, on_primary_color):
     content = re.sub(r'HighlightCandidateColor=#?[a-fA-F0-9]+', f'HighlightCandidateColor={on_primary_color}', content)
     content = re.sub(r'HighlightColor=#?[a-fA-F0-9]+', f'HighlightColor={primary_color}', content)
     content = re.sub(r'NormalColor=#?[a-fA-F0-9]+', f'NormalColor={fg_color}', content)
-    content = re.sub(r'Name=.*', 'Name=DMS Niri Theme', content)
+    content = re.sub(r'Name=.*', 'Name=DMS Niri', content)
     
     with open(THEME_CONF_PATH, 'w') as f:
         f.write(content)
