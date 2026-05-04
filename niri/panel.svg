@@ -25,7 +25,7 @@
      id="defs1" />
   <path
      id="rect1"
-     style="fill:#0e1415;stroke:#81d4dc;stroke-width:1.0;stroke-linecap:round;stroke-linejoin:round"
-     d="M 12.5,0.5 h 23.0 a 12.0,12.0 0 0 1 12.0,12.0 v 23.0 a 12.0,12.0 0 0 1 -12.0,12.0 h -23.0 a 12.0,12.0 0 0 1 -12.0,-12.0 v -23.0 a 12.0,12.0 0 0 1 12.0,-12.0 z"
+     style="fill:#0e1415;stroke:#81d4dc;stroke-width:2.0;stroke-linecap:round;stroke-linejoin:round"
+     d="M 13.0,1.0 h 22.0 a 12.0,12.0 0 0 1 12.0,12.0 v 22.0 a 12.0,12.0 0 0 1 -12.0,12.0 h -22.0 a 12.0,12.0 0 0 1 -12.0,-12.0 v -22.0 a 12.0,12.0 0 0 1 12.0,-12.0 z"
      sodipodi:nodetypes="sssssssss" />
 </svg>

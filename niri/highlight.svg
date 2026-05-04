@@ -14,5 +14,5 @@
   <path
      id="rect1"
      style="fill:#81d4dc;fill-opacity:0.8;stroke:none;stroke-width:0.999945;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-     d="M 12.5,0.5 h 23.0 a 12.0,12.0 0 0 1 12.0,12.0 v 23.0 a 12.0,12.0 0 0 1 -12.0,12.0 h -23.0 a 12.0,12.0 0 0 1 -12.0,-12.0 v -23.0 a 12.0,12.0 0 0 1 12.0,-12.0 z" />
+     d="M 12.0,3.0 h 24.0 a 10.0,10.0 0 0 1 10.0,10.0 v 22.0 a 10.0,10.0 0 0 1 -10.0,10.0 h -24.0 a 10.0,10.0 0 0 1 -10.0,-10.0 v -22.0 a 10.0,10.0 0 0 1 10.0,-10.0 z" />
 </svg>
