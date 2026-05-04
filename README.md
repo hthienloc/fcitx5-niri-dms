@@ -47,4 +47,4 @@ git clone https://github.com/hthienloc/fcitx5-niri-dms.git && cd fcitx5-niri-dms
 ## Credits
 
 - Base SVG assets and layout ideas from [Ori-fcitx5](https://github.com/Reverier-Xu/Ori-fcitx5).
-- Designed for use with [Dank Material Shell](https://github.com/hthienloc/DankMaterialShell).
+- Designed for use with [Dank Material Shell](https://github.com/AvengeMedia/DankMaterialShell).
