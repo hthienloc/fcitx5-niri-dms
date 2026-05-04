@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.local/
+niri/panel.svg
+niri/highlight.svg
+niri/theme.conf
