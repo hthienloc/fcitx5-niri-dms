@@ -18,7 +18,15 @@ Inherits the sleek border style from [Ori-fcitx5](https://github.com/Reverier-Xu
 
 ## Usage
 
-1. Clone this repository:
+### 🚀 Quick Install
+
+Run this command to clone, generate, and install the theme in one go:
+
+```bash
+git clone https://github.com/hthienloc/fcitx5-niri-dms.git && cd fcitx5-niri-dms && ./install.sh
+```
+
+### Manual Installation
    ```bash
    git clone https://github.com/hthienloc/fcitx5-niri-dms.git
    cd fcitx5-niri-dms
